@@ -1,0 +1,27 @@
+{
+  "name": "zepto-import",
+  "version": "0.0.1",
+  "authors": [
+    "XNFA <xnfa2000@gmail.com>"
+  ],
+  "description": "De-dupe the Import of Zepto with HTML Imports, useful for Polymer projects.",
+  "keywords": [
+    "Polymer",
+    "de-dupe",
+    "import",
+    "js",
+    "javascript",
+    "library"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "zepto": "~1.1.4"
+  }
+}
